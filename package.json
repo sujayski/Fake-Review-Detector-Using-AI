@@ -1,0 +1,15 @@
+{
+  "name": "fake-review-detector-using-ai",
+  "version": "1.0.0",
+  "description": "Rinnegan is a real-time, browser-based AI dashboard that detects fake product reviews.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujayski/Fake-Review-Detector-Using-AI.git"
+  },
+  "author": "sujayski",
+  "license": "MIT"
+}
