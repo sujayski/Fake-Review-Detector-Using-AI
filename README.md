@@ -133,15 +133,13 @@ Fake-Review-Detector-Using-AI/
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributors
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sujayski/Fake-Review-Detector-Using-AI/issues) or open a pull request.
+Done By:
+1. Sujay H - 1CR25AD127
+2. Swarnim Mishra - 1CR25AD128
+3. Shravya - 1CR25CI055
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ---
 
