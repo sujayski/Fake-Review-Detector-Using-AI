@@ -139,6 +139,7 @@ Done By:
 1. Sujay H - 1CR25AD127
 2. Swarnim Mishra - 1CR25AD128
 3. Shravya - 1CR25CI055
+4. Shubham Bhowmik - 1CR25CI056
 
 
 ---
@@ -149,7 +150,3 @@ Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more infor
 
 ---
 
-## 👤 Author
-
-**sujayski**
-GitHub: [@sujayski](https://github.com/sujayski)
